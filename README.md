@@ -1,0 +1,1 @@
+# Tugas_2Pada praktikum kali ini kita akan melanjutkan pengenalan React, mulai dari React Hooks sampai bagaimana konsep siklus hidup komponen React. Kegiatan ini dilakukan agar mahasiswa mampu menerapkan konsep dasar React di dalam pemrograman React Native.
